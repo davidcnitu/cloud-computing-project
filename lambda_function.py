@@ -121,7 +121,7 @@ def saveProduct(requestBody):
             'Message': ' SUCCESS',
             'Item': requestBody
         }
-        return buildResponse(200, body)
+        return buildResponse(201, body)
     except:
         logger.exception('Error: unable to save product')
 
