@@ -53,9 +53,9 @@ An example of the type of body to use in the POST request can be seen below:
 <img width="452" alt="postman_body" src="https://user-images.githubusercontent.com/76735699/162539959-b99a48df-ed7b-416c-b0e6-e323d320bc2f.png">
 
 ## Credits
-Chris Hui
-Yusuf Sindi
-Fanging Tan
+Chris Hui /n
+Yusuf Sindi /n
+Fanging Tan /n
 David Nitu
 
 
