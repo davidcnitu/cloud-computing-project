@@ -26,7 +26,7 @@ https://ecs781pgroup1.auth.us-east-1.amazoncognito.com/login?client_id=3gek6r2mh
 
 Once signed in, the id token and the access token can be found in the URL parameters, with an example highlighted below (please note the id token and access token that are used are invalid and used for demonstration purposes only):
 
-https://example.com/callback#id_token=eyJraWQiOiJUYXhPS2lvUU5OcTlqOThWWlBjaGc2OWgwMVBORERpQUhvOXFCU1JvOFVjPSIsImFsZyI6IlJTM&access_token=eyJraWQiOiJkRnpmVUlZM2lxTkRwdythbURKTHpWNzFtY0EwcEQ5cDB6TXUwc0dFRW5FPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3MzhjODgyMy1hMzBjLTRlNTctO&expires_in=3600&token_type=Bearer
+https://example.com/callback#id_token=**eyJraWQiOiJUYXhPS2lvUU5OcTlqOThWWlBjaGc2OWgwMVBORERpQUhvOXFCU1JvOFVjPSIsImFsZyI6IlJTM**&access_token=**eyJraWQiOiJkRnpmVUlZM2lxTkRwdythbURKTHpWNzFtY0EwcEQ5cDB6TXUwc0dFRW5FPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3MzhjODgyMy1hMzBjLTRlNTctO**&expires_in=3600&token_type=Bearer
 
 Once you have retrieved the access token, insert it into the header under the key “Authorization”. Please see image below for an example of how to do this on Postman:
 
