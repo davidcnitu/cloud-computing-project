@@ -52,7 +52,7 @@ Create Product <POST /Product/> Description: Creates a new product in the databa
 
 An example of the type of body to use in the POST request can be seen below:
 
-<img width="452" alt="postman_body" src="https://user-images.githubusercontent.com/67503181/162568821-47f8453a-3a43-49f4-9faa-4260e9437f67.png">
+<img width="600" alt="postman_body" src="https://user-images.githubusercontent.com/67503181/162568821-47f8453a-3a43-49f4-9faa-4260e9437f67.png">
 
 ## Credits
 [Chris Hui](https://github.com/chrishui)
