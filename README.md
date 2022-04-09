@@ -62,7 +62,7 @@ An example of the type of body to use in the POST request can be seen below:
 
 [Yusuf Sindi](https://github.com/yysindi)
 
-[Fanging Tan](https://github.com/fangningtan)
+[Fang Ning Tan](https://github.com/fangningtan)
 
 [David Nitu](https://github.com/davidcnitu)
 
