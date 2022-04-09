@@ -38,7 +38,7 @@ The API accepts JSON for the body of the post request and returns JSON in the re
 
 All available requests with their respective endpoints are displayed below:
 
-Health Check: <GET /Health/> Description: Performs a health check and 
+Health Check: <GET /Health/> Description: Performs a health check and external REST API interaction
 
 Get Products: <GET /Products/> Description: Fetches all products from the database
 
