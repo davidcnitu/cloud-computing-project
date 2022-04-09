@@ -10,6 +10,8 @@ https://ecs781pgroup1.auth.us-east-1.amazoncognito.com/login?client_id=3gek6r2mh
 For post requests, API accepts JSON for the body of the request, and the API also returns JSON for all responses.
 Furthermore, the API has been secured by https.
 
+Project demonstration: https://www.youtube.com/watch?v=MJDKouYt0g0
+
 ## System Architecture 
 
 This project was implemented using Amazon Web Services’ (AWS) serverless architecture, with the Lambda functions being the core logic for this architecture. We used DymamoDB for the database, AWS Identity and Access Management (IAM) for adding role-based policies, Cognito user pool for user authentication, and API gateway as an API management tool that sits between the client and the backend services. Please refer to the diagram below to see the flow of the architecture.
