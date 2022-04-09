@@ -20,7 +20,7 @@ This project was implemented using Amazon Web Services’ (AWS) serverless archi
 
 This service can be used most effectively through Postman.
 
-The URL to send a request to, to use this API is as follows:
+The URL to send a request to / to use this API is as follows:
 https://e4dlouavza.execute-api.us-east-1.amazonaws.com/prod
 
 In order to retrieve all products from the database, you must include an authentication token from the header. To obtain an authentication token, please sign up or login using the following link:
