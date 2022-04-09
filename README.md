@@ -1,6 +1,9 @@
 # cloud-computing-project
 ECS781P Cloud Computing Mini Project
 
+## Project demonstration
+https://www.youtube.com/watch?v=MJDKouYt0g0
+
 ## Project Description
 
 The purpose of this project is to provide a RESTful API service. Our service allows users to perform the basic CRUD functionality to retrieve, create, update, and delete products stored in the database. The products will consist of a product id, a colour attribute, and a price attribute, and the user also has the option to add additional attributes of their choosing thanks to our schemeless database. The service also offers a health check, that is connected to an external API. When a health check is performed, the service should return a status code 200 if healthy, as well as fetch a product via an external API. While this is a contrived example, it demonstrates how one would use such a service to interact with an external API. The client will send a request to the following URL:
@@ -9,8 +12,6 @@ with one of the three endpoint, a /product path, and a /products path, and a /he
 https://ecs781pgroup1.auth.us-east-1.amazoncognito.com/login?client_id=3gek6r2mh1n9dbgc720jlr8585&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://example.com/callback
 For post requests, API accepts JSON for the body of the request, and the API also returns JSON for all responses.
 Furthermore, the API has been secured by https.
-
-Project demonstration: https://www.youtube.com/watch?v=MJDKouYt0g0
 
 ## System Architecture 
 
