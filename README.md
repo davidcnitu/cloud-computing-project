@@ -1,7 +1,7 @@
 # cloud-computing-project
 ECS781P Cloud Computing Mini Project
 
-## Project demonstration
+## Project Demonstration
 https://www.youtube.com/watch?v=MJDKouYt0g0
 
 ## Project Description
