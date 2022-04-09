@@ -32,7 +32,7 @@ https://example.com/callback#id_token=eyJraWQiOiJUYXhPS2lvUU5OcTlqOThWWlBjaGc2OW
 
 Once you have retrieved the access token, insert it into the header under the key “Authorization”. Please see image below for an example of how to do this on Postman:
 
-<img width="452" alt="postman_header" src="https://user-images.githubusercontent.com/76735699/162539825-0ecc7bba-23ad-42b8-89ba-b61a438ace6e.png">
+<img width="800" alt="postman_header" src="https://user-images.githubusercontent.com/76735699/162539825-0ecc7bba-23ad-42b8-89ba-b61a438ace6e.png">
 
 The API accepts JSON for the body of the post request and returns JSON in the response for all other requests.
 
@@ -52,7 +52,7 @@ Create Product <POST /Product/> Description: Creates a new product in the databa
 
 An example of the type of body to use in the POST request can be seen below:
 
-<img width="600" alt="postman_body" src="https://user-images.githubusercontent.com/67503181/162568821-47f8453a-3a43-49f4-9faa-4260e9437f67.png">
+<img width="800" alt="postman_body" src="https://user-images.githubusercontent.com/67503181/162568821-47f8453a-3a43-49f4-9faa-4260e9437f67.png">
 
 ## Credits
 [Chris Hui](https://github.com/chrishui)
